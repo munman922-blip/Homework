@@ -1,0 +1,5 @@
+print("Mahi's birthday is in May")
+print("Kian's birthday is in June")
+print("Vivaan's birthday is in March")
+print("Jude's birthday is in October")
+print("Raj's birthday is in December")
